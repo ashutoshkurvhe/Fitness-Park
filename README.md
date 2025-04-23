@@ -21,5 +21,5 @@ The site includes:
 
 ```bash
 git clone https://github.com/ashutoshkurvhe/Fitness-Park.git
-cd fitness-park
+cd Fitness-Park
 open index.html
